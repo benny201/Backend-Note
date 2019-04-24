@@ -14,8 +14,8 @@
 
 ### 《Java编程思想》
 这本书在上班前大概看过一遍，借即将工作满一年之际，2019-04-20开始打算再次回顾一下本书。
-第二遍阅读《Java编程思想》的笔记 -> [Note Link](https://github.com/benny201/JavaScript-Notes/tree/master/JavaScript高级程序设计)
+第二遍阅读《Java编程思想》的笔记 -> [Note Link](https://github.com/benny201/Backend-Note/tree/master/Java编程思想)
 
 ### 《kafka权威指南》
-阅读《kafka权威指南》的笔记 -> [Note Link](https://github.com/benny201/JavaScript-Notes/tree/master/JavaScript语言精粹)
+阅读《kafka权威指南》的笔记 -> [Note Link](https://github.com/benny201/Backend-Note/tree/master/Kafka权威指南)
 
