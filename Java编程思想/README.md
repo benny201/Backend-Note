@@ -1,21 +1,10 @@
-# Back-End Books and Note
-本repo主要是记录在工作过程中读过的后端相关的书及笔记。
+# 《Java编程思想》
 
-## DONE
-`《重构》`，`《Java编程思想》`
+第二次阅读Java编程思想笔记
 
-## On Process
-`《kafka权威指南》`, `《efftive Java》`，`《Spring实战》`，`《深入理解Java虚拟机》`
+* 第一章（无）
+* [第二章：一切都是对象](https://github.com/benny201/Backend-Note/tree/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E4%B8%80%E5%88%87%E9%83%BD%E6%98%AF%E5%AF%B9%E8%B1%A1)
+* [第三章：操作符](https://github.com/benny201/Backend-Note/tree/master/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/%E7%AC%AC%E4%B8%89%E7%AB%A0%EF%BC%9A%E6%93%8D%E4%BD%9C%E7%AC%A6)
 
-## Plan List
-`《Hadoop权威指南》`，`《从Paxos到Zookeeper 分布式一致性原理与实践》`
 
-## Notes
-
-### 《Java编程思想》
-这本书在上班前大概看过一遍，借即将工作满一年之际，2019-04-20开始打算再次回顾一下本书。
-第二遍阅读《Java编程思想》的笔记 -> [Note Link](https://github.com/benny201/Backend-Note/tree/master/Java编程思想)
-
-### 《kafka权威指南》
-阅读《kafka权威指南》的笔记 -> [Note Link](https://github.com/benny201/Backend-Note/tree/master/Kafka权威指南)
 
