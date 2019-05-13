@@ -5,10 +5,10 @@
 `《重构》`，`《Java编程思想》`
 
 ## On Process
-`《kafka权威指南》`, `《efftive Java》`，`《Spring实战》`，`《深入理解Java虚拟机》`
+`《kafka权威指南》`, `《efftive Java》`，`《Spring实战》`，`《深入理解Java虚拟机》`，`《从Paxos到Zookeeper 分布式一致性原理与实践》`
 
 ## Plan List
-`《Hadoop权威指南》`，`《从Paxos到Zookeeper 分布式一致性原理与实践》`
+`《Hadoop权威指南》`，
 
 ## Notes
 
