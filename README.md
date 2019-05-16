@@ -18,3 +18,9 @@
 
 ### 《kafka权威指南》
 阅读《kafka权威指南》的笔记 -> [Note Link](https://github.com/benny201/Backend-Note/tree/master/Kafka权威指南)
+
+
+## Papers
+一些经典论文
+
+* 
